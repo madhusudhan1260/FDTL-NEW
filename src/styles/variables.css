@@ -1,0 +1,52 @@
+:root {
+  /* Brand */
+  --color-navy-900: #0b2341;
+  --color-navy-800: #12365c;
+  --color-navy-700: #1b4675;
+  --color-primary: #1476d4;
+  --color-primary-hover: #0f63b5;
+  --color-primary-soft: #e8f2fc;
+
+  /* Surfaces */
+  --color-bg: #f5f8fc;
+  --color-surface: #ffffff;
+  --color-surface-muted: #f8fafd;
+  --color-border: #e3e9f1;
+  --color-border-strong: #cfd9e5;
+
+  /* Text */
+  --color-text: #13233a;
+  --color-text-secondary: #4a5b72;
+  --color-text-muted: #7a8aa0;
+  --color-text-inverse: #ffffff;
+
+  /* Status */
+  --color-success: #16a34a;
+  --color-success-soft: #e7f6ec;
+  --color-success-text: #11783a;
+  --color-warning: #ea8a0c;
+  --color-warning-soft: #fdf1e1;
+  --color-warning-text: #a65c00;
+  --color-danger: #dc2626;
+  --color-danger-soft: #fdeaea;
+  --color-danger-text: #b01d1d;
+  --color-info: #1476d4;
+  --color-info-soft: #e8f2fc;
+  --color-info-text: #0f5ca6;
+  --color-neutral-soft: #eef2f6;
+  --color-neutral-text: #4a5b72;
+
+  /* Shape & depth */
+  --radius-sm: 6px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --shadow-sm: 0 1px 2px rgba(11, 35, 65, 0.06);
+  --shadow-md: 0 2px 8px rgba(11, 35, 65, 0.08);
+  --shadow-lg: 0 16px 40px rgba(11, 35, 65, 0.18);
+
+  /* Layout */
+  --header-height: 64px;
+  --sidebar-width: 256px;
+  --sidebar-collapsed-width: 72px;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
